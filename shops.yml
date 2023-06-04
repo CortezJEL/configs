@@ -3032,175 +3032,175 @@ Spawners:
     spawnertype: BLAZE
     displayname: '&eBlaze &fSpawner'
     name: '&eBlaze &fSpawner'
-    buy: 4000000
+    buy: 500000
     sell: -1
   2:
     material: SPAWNER
     spawnertype: CHICKEN
     displayname: '&eChicken &fSpawner'
     name: '&eChicken &fSpawner'
-    buy: 4000000
+    buy: 300000
     sell: -1
   3:
     material: SPAWNER
     spawnertype: COW
     displayname: '&eCow &fSpawner'
     name: '&eCow &fSpawner'
-    buy: 4000000
+    buy: 990000
     sell: -1
   4:
     material: SPAWNER
     spawnertype: CREEPER
     displayname: '&eCreeper &fSpawner'
     name: '&eCreeper &fSpawner'
-    buy: 4000000
+    buy: 776000
     sell: -1
   5:
     material: SPAWNER
     spawnertype: ENDERMAN
     displayname: '&eEnderman &fSpawner'
     name: '&eEnderman &fSpawner'
-    buy: 4000000
+    buy: 1000000
     sell: -1
   6:
     material: SPAWNER
     spawnertype: HORSE
     displayname: '&eHorse &fSpawner'
     name: '&eHorse &fSpawner'
-    buy: 4000000
+    buy: 840000
     sell: -1
   7:
     material: SPAWNER
     spawnertype: HUSK
     displayname: '&eHusk &fSpawner'
     name: '&eHusk &fSpawner'
-    buy: 4000000
+    buy: 312500
     sell: -1
   8:
     material: SPAWNER
     spawnertype: IRON_GOLEM
     displayname: '&eIron Golem &fSpawner'
     name: '&eIron Golem &fSpawner'
-    buy: 4000000
+    buy: 1380000
     sell: -1
   9:
     material: SPAWNER
     spawnertype: MUSHROOM_COW
     displayname: '&eMushroom Cow &fSpawner'
     name: '&eMushroom Cow &fSpawner'
-    buy: 4000000
+    buy: 990000
     sell: -1
   10:
     material: SPAWNER
     spawnertype: PANDA
     displayname: '&ePanda &fSpawner'
     name: '&ePanda &fSpawner'
-    buy: 4000000
+    buy: 300000
     sell: -1
   11:
     material: SPAWNER
     spawnertype: PARROT
     displayname: '&eParrot &fSpawner'
     name: '&eParrot &fSpawner'
-    buy: 4000000
+    buy: 300000
     sell: -1
   12:
     material: SPAWNER
     spawnertype: PHANTOM
     displayname: '&ePhantom &fSpawner'
     name: '&ePhantom &fSpawner'
-    buy: 4000000
+    buy: 3129000
     sell: -1
   13:
     material: SPAWNER
     spawnertype: PIGLIN_BRUTE
     displayname: '&ePiglin Brute &fSpawner'
     name: '&ePiglin Brute &fSpawner'
-    buy: 4000000
+    buy: 500000
     sell: -1
   14:
     material: SPAWNER
     spawnertype: RABBIT
     displayname: '&eRabbit &fSpawner'
     name: '&eRabbit &fSpawner'
-    buy: 4000000
+    buy: 850000
     sell: -1
   15:
     material: SPAWNER
     spawnertype: SHEEP
     displayname: '&eSheep &fSpawner'
     name: '&eSheep &fSpawner'
-    buy: 4000000
+    buy: 885000
     sell: -1
   16:
     material: SPAWNER
     spawnertype: SHULKER
     displayname: '&eShulker &fSpawner'
     name: '&eShulker &fSpawner'
-    buy: 4000000
+    buy: 1500000
     sell: -1
   17:
     material: SPAWNER
     spawnertype: SKELETON
     displayname: '&eSkeleton &fSpawner'
     name: '&eSkeleton &fSpawner'
-    buy: 4000000
+    buy: 300000
     sell: -1
   18:
     material: SPAWNER
     spawnertype: SLIME
     displayname: '&eSlime &fSpawner'
     name: '&eSlime &fSpawner'
-    buy: 4000000
+    buy: 375000
     sell: -1
   19:
     material: SPAWNER
     spawnertype: SPIDER
     displayname: '&eSpider &fSpawner'
     name: '&eSpider &fSpawner'
-    buy: 4000000
+    buy: 350000
     sell: -1
   20:
     material: SPAWNER
     spawnertype: SQUID
     displayname: '&eSquid &fSpawner'
     name: '&eSquid &fSpawner'
-    buy: 4000000
+    buy: 330000
     sell: -1
   21:
     material: SPAWNER
     spawnertype: STRIDER
     displayname: '&eStrider &fSpawner'
     name: '&eStrider &fSpawner'
-    buy: 4000000
+    buy: 300000
     sell: -1
   22:
     material: SPAWNER
     spawnertype: WITCH
     displayname: '&eWitch &fSpawner'
     name: '&eWitch &fSpawner'
-    buy: 4000000
+    buy: 695000
     sell: -1
   23:
     material: SPAWNER
     spawnertype: WOLF
     displayname: '&eWolf &fSpawner'
     name: '&eWolf &fSpawner'
-    buy: 4000000
+    buy: 500000
     sell: -1
   24:
     material: SPAWNER
     spawnertype: ZOMBIE
     displayname: '&eZombie &fSpawner'
     name: '&eZombie &fSpawner'
-    buy: 4000000
+    buy: 312500
     sell: -1
   25:
     material: SPAWNER
     spawnertype: ZOMBIFIED_PIGLIN
     displayname: '&eZombified Piglin &fSpawner'
     name: '&eZombified Piglin &fSpawner'
-    buy: 4000000
+    buy: 312500
     sell: -1
 
 #==================== Workstations ====================#
